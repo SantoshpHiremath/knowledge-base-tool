@@ -1,4 +1,4 @@
-"""A SYNTHETIC knowledge-base corpus — not real E.ON documentation.
+"""A SYNTHETIC knowledge-base corpus — not real company documentation.
 Modeled on a typical internal wiki: onboarding guides, tool how-tos, HR
 policy pages, project-process docs, and security guidance. Some articles
 are deliberately stale (old last_updated) or missing metadata (no owner/

@@ -1,7 +1,6 @@
 """Simulates a stream of user search queries and detects which ones the
-knowledge base consistently fails to answer well — models "collaborate
-with team members to identify knowledge gaps and develop solutions to
-address them" from the posting.
+knowledge base consistently fails to answer well — the "identify knowledge gaps"
+step of knowledge management.
 """
 from collections import defaultdict
 

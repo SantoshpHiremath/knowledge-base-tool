@@ -1,6 +1,6 @@
-"""KM effectiveness metrics — models "monitor and analyze knowledge
+"""KM effectiveness metrics — monitoring and analyzing knowledge
 management metrics to measure the effectiveness of knowledge sharing
-initiatives" from the posting.
+initiatives.
 """
 from collections import defaultdict
 

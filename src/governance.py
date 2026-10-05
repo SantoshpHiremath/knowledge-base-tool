@@ -1,7 +1,6 @@
 """Content-governance checks: staleness and metadata completeness.
-Models "analyze existing documentation for accuracy, completeness, and
-alignment with company standards" and "ensuring information is accurate,
-up-to-date, and easily accessible" from the posting.
+Checks existing documentation for accuracy, completeness, and alignment
+with standards, so information stays accurate, up-to-date, and easily accessible.
 """
 from datetime import date
 
